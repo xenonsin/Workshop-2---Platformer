@@ -10,3 +10,7 @@ https://dl.dropboxusercontent.com/u/17699642/CPP%20GAME%20DEV/Workshop%202%20-%2
 Links
 ======
 http://www.cppgamedev.com/
+
+Credits
+======
+Prime31 for the CharacterController2D
