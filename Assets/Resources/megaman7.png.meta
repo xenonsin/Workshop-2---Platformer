@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 34d29d6b4ee66754599b1ad1dcf603e7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman7_0
+    21300002: megaman7_1
+    21300004: megaman7_2
+    21300006: megaman7_3
+    21300008: megaman7_4
+    21300010: megaman7_5
+    21300012: megaman7_6
+    21300014: megaman7_7
+    21300016: megaman7_8
+    21300018: megaman7_9
+    21300020: megaman7_10
+    21300022: megaman7_11
+    21300024: megaman7_12
+    21300026: megaman7_13
+    21300028: megaman7_14
+    21300030: megaman7_15
+    21300032: megaman7_16
+    21300034: megaman7_17
+    21300036: megaman7_18
+    21300038: megaman7_19
+    21300040: megaman7_20
+    21300042: megaman7_21
+    21300044: megaman7_22
+    21300046: megaman7_23
+    21300048: megaman7_24
+    21300050: megaman7_25
+    21300052: megaman7_26
+    21300054: megaman7_27
+    21300056: megaman7_28
+    21300058: megaman7_29
+    21300060: megaman7_30
+    21300062: megaman7_31
+    21300064: megaman7_32
+    21300066: megaman7_33
+    21300068: megaman7_34
+    21300070: megaman7_35
+    21300072: megaman7_36
+    21300074: megaman7_37
+    21300076: megaman7_38
+    21300078: megaman7_39
+    21300080: megaman7_40
+    21300082: megaman7_41
+    21300084: megaman7_42
+    21300086: megaman7_43
+    21300088: megaman7_44
+    21300090: megaman7_45
+    21300092: megaman7_46
+    21300094: megaman7_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: megaman7_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman7_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman7_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman7_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman7_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
